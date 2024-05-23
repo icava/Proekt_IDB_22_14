@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\_Van_Van_\\Desktop\\UnityProject-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78284AE1-4747-1BE8-77F2-236846354979}|Assembly-CSharp.csproj|c:\\users\\_van_van_\\desktop\\unityproject-main\\assets\\scripts\\movementshoulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78284AE1-4747-1BE8-77F2-236846354979}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementshoulder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movementshoulder.cs",
+              "DocumentMoniker": "C:\\Users\\_Van_Van_\\Desktop\\UnityProject-main\\Assets\\Scripts\\Movementshoulder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movementshoulder.cs",
+              "ToolTip": "C:\\Users\\_Van_Van_\\Desktop\\UnityProject-main\\Assets\\Scripts\\Movementshoulder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movementshoulder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:43:10.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
